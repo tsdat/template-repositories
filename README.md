@@ -9,6 +9,6 @@ Anyone can create a repository template for tsdat. To have it registered here, p
 
 ## List of Templates
 
-* [tsdat/ingest-template](https://github.com/tsdat/ingest-template): Template repository that makes it easy to create, manage, and run multiple ingests that run locally on your computer.
-* [tsdat/ingest-template-local](https://github.com/tsdat/ingest-template-local): Ingest template for a new pipeline that runs on your local filesystem.
+* [tsdat/ingest-template](https://github.com/tsdat/ingest-template): Template repository that makes it easy to create, manage, and run multiple ingests that run locally on your computer. This is the recommended starting point.
+* [~~tsdat/ingest-template-local~~](https://github.com/tsdat/ingest-template-local): Ingest template for a new pipeline that runs on your local filesystem. ***This template is now deprecated, as the ingest-template (above) provides this functionality more effectively***
 * [tsdat/ingest-template-aws](https://github.com/tsdat/ingest-template-aws): Ingest template for one or more pipelines running via an AWS Lambda function.
